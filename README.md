@@ -1,0 +1,1 @@
+# wp-classic-editor-safari-18-fix
